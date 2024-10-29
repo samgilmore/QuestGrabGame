@@ -1,0 +1,9 @@
+# Unity Build Artifacts for Android
+Library/Bee/
+Library/Il2cppBuildCache/
+Library/PlayerDataCache/
+Library/ShaderCache/
+
+# Ignore Visual Studio Code settings
+.vscode/
+.DS_Store
